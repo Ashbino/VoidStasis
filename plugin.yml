@@ -1,6 +1,0 @@
-name: VoidStasis
-version: '${version}'
-main: com.thegildedking.voidstasis.VoidStasisPlugin
-api-version: '1.21'
-author: TheGildedKing
-description: Tag players with a hooked Ender Pearl, then reel them into the Void Stasis dimension.
