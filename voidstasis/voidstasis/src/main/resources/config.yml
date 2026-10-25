@@ -1,6 +1,0 @@
-# How close (in blocks) a thrown Ender Pearl must get to your Void Stasis bobber
-# to count as hooked. Pearls are fast, so keep this at 1.5 or more.
-pearl-hook-radius: 2.0
-
-# If true, you can tag yourself by hooking your own pearl (handy for solo testing).
-allow-self-tag: false
